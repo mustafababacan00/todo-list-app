@@ -20,19 +20,19 @@ Program çalıştırıldığında 5 seçenekli bir menü görüntülenir:
 
 ## Temel İşlevler
 
-1. Görevleri Listele
+1. **Görevleri Listele**
 Tüm görevleri numaralı liste halinde gösterir. Liste boşsa bilgi mesajı verir.
 
-2. Yeni Görev Ekle
+2. **Yeni Görev Ekle**
 Görev metnini yazıp Enter'a basarak yeni görev eklersiniz. Boş görev eklenemez.
 
-3. Görev Düzenle
+3. **Görev Düzenle**
 Düzenlemek istediğiniz görevin numarasını seçip yeni metni yazarsınız. Geçersiz numara veya boş metin kabul edilmez.
 
-4. Görev Sil
+4. **Görev Sil**
 Silmek istediğiniz görevin numarasını girerek listeden kaldırırsınız. Geçersiz numara hata verir.
 
-5. Çıkış
+5. **Çıkış**
 Programı güvenli şekilde kapatır.
 
 ## Önemli Özellikler
